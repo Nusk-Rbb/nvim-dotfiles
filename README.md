@@ -7,4 +7,9 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 Install a package for Arch Linux
 
-`sudo pacman -S nodejs`
+```
+sudo pacman -S nodejs
+```
+```
+```
+```
